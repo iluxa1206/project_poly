@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'articles',
     'requests',
     'admins',
+    'research_fields'
 ]
 
 MIDDLEWARE = [
